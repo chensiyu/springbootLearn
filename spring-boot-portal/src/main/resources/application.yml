@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+mycar:
+  brand: BYD
+  price: 100000
