@@ -4,3 +4,27 @@ server:
 mycar:
   brand: BYD
   price: 100000
+
+person:
+  userName: zhangsan
+  boss: true
+  birth: 2020/12/31
+  age: 15
+  interests: [篮球, 足球]
+  animal:
+    - 猫
+    - 狗
+  score:
+    chinese: 50
+    english: 90
+  salarys:
+    - 111.11
+    - 222.22
+  pet:
+    name: 狗
+    weight: 88.88
+  allPets:
+    sick:
+      - {name: 猫, weight: 12.21}
+      - {name: 狗, weight: 33.33}
+    health: [{name: 兔兔, weight: 44.44}]

@@ -19,4 +19,5 @@ import lombok.NoArgsConstructor;
 public class Pet {
 
     private String name;
+    private Double weight;
 }
